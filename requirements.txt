@@ -1,0 +1,10 @@
+# Naive Neuro-Symbolic - Minimal Dependencies
+# Python 3.8+ required
+
+# Ollama Python client for LLM interaction
+ollama
+
+# pyswip: Python-Prolog binding for SWI-Prolog (Windows-friendly)
+# Requires SWI-Prolog 9.0+ to be installed on the system
+pyswip
+
