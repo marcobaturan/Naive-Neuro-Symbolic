@@ -123,7 +123,7 @@ ollama list
 ### 1. Clone or Navigate to the Project Directory
 
 ```bash
-cd LLM-prolog-binding
+cd Naive-Neuro-Symbolic
 ```
 
 ### 2. Create a Virtual Environment
@@ -398,4 +398,5 @@ This project is inspired by research on hybrid neuro-symbolic approaches:
 **License**: MIT  
 **Status**: Proof of Concept  
 **Contributions**: Welcome
+
 
